@@ -1,7 +1,7 @@
 public class rama1 {
 
 	public static void main(String[] args) {		
-		System.out.println("Hola Mundooooo");
+		System.out.println("Hola Mundoooo");
 	}
 
 }
