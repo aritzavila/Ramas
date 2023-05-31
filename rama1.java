@@ -1,9 +1,10 @@
 public class rama1 {
 
 	public static void main(String[] args) {		
-		System.out.println("Hola soy Jesus");
-		System.out.println("wwwwwwwwwwwwww");
 
+		int x=0;
+		int y=3;
+		System.out.println(x+y);
 
 	}
 
